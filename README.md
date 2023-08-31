@@ -19,8 +19,7 @@ Here are some ideas to get you started:
   <img align="right" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
 </a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/">
   <img align="right" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
-</a>
-##Let's connect and learn together! 🚀
+</a>Let's connect and learn together! 🚀
 
 
 | <a href="https://github.com/Saleh-Tarek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Saleh-Tarek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&layout=compact&theme=buefy&hide_border=true" /></a> |
@@ -36,7 +35,9 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
   <img align="right" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
 </a>
-
+ <a href="https://www.linkedin.com/in/tareksaleh001/">
+  <img align="right" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
+</a>
 
 | ------------- | ------------- |
 
