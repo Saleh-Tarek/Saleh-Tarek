@@ -2,7 +2,7 @@
 <!--
 **Saleh-Tarek/Saleh-Tarek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek)](https://github.com/Saleh-Tarek/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Saleh-Tarek=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Here are some ideas to get you started:
