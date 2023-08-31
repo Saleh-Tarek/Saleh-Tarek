@@ -25,19 +25,24 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&size_weight=0.5&count_weight=0.5)](https://github.com/Saleh-Tarek/github-readme-stats)
 -->
-![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-c-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/IDE-ECLIPSE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-<img src="https://img.shields.io/github/followers/Saleh-Tarek?label=Follow&style=plastic">
-<img src="https://img.shields.io/github/stars/Saleh-Tarek?label=Stars&style=plastic">
-![visitors](https://komarev.com/ghpvc/?username=your-github-Saleh-Tarek)
+
+
+
 
 
 - 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
 
 | ------------- | ------------- |
 
+
+
+![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-C-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/IDE-ECLIPSE-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+<img src="https://img.shields.io/github/followers/Saleh-Tarek?label=Follow&style=plastic">
+<img src="https://img.shields.io/github/stars/Saleh-Tarek?label=Stars&style=plastic">
+![visitors](https://komarev.com/ghpvc/?username=your-github-Saleh-Tarek)
 
 
 ### Let's connect and learn together!  🚀
