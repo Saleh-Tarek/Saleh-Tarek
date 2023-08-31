@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://Saleh-Tarek.github.io"><img width="80%" alt="Hello, I'm Tarek I an Embedded software engineering and Instructor!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://"><img width="80%" alt=" Hello, I'm Tarek I an Embedded software engineering and Instructor!" src="./assets/gh-readme-header.png" /></a></p>
 
 <br />
 
