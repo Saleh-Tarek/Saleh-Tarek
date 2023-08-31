@@ -14,22 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<<<<<<< HEAD
-=======
-<p align="center"><a href="https://"><img width="80%" alt=" Hello, I'm Tarek I an Embedded software engineering and Instructor!" src="./assets/gh-readme-header.png" /></a></p>
 
-<br />
->>>>>>> 493ea72cb4bb02054bdfcb74999c8f0007550d21
-
-👋 Hi there! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ or my LinkedIn https://www.linkedin.com/in/tareksaleh001/ Let's connect and learn together! 🚀
+👋 Hi there! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
+  <img align="right" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
+</a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/">
+  <img align="right" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
+</a>
+##Let's connect and learn together! 🚀
 
 - 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
-
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 <a href="https://github.com/Saleh-Tarek/github-readme-stats">
   <img align="right" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
