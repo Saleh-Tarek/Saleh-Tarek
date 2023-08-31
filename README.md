@@ -15,14 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 Hi there! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at 
-<a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
-  <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
-</a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/">
-  <img align="center" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
-</a>
+👋 Hi there! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ"> <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" /> </a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/"> <img align="center" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" /> </a>
 
-#### Let's connect and learn together! 🚀
+### Let's connect and learn together! 🚀
 
 
 
