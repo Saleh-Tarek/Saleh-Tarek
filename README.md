@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 #### Top Repositories
 
 <a href="https://twitter.com/SalehTarek001">
-  <img align="right" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/assets/twitter.svg" />
+  <img align="right" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/master/Saleh-Tarek/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
-  <img align="right" alt="Tarek Saleh | YouTube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/assets/youtube.png" />
+  <img align="right" alt="Tarek Saleh | YouTube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/master/Saleh-Tarek/assets/youtube.png" />
 </a>
