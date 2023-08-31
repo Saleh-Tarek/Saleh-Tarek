@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://Saleh-Tarek.github.io"><img width="80%" alt="Hello, I'm Tarek I an Embedded software engineering and Instructor!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
 
 👋 Hi there! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ or my LinkedIn https://www.linkedin.com/in/tareksaleh001/ Let's connect and learn together! 🚀
 
