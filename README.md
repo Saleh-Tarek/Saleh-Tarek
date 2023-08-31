@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 | <a href="https://github.com/Saleh-Tarek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/Saleh-Tarek/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
-[![Tareks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&theme=dracula)](https://github.com/MeghnaS21/github-readme-stats)
+[![Tareks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&theme=dracula)](https://github.com/Saleh-Tarek/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&size_weight=0.5&count_weight=0.5)](https://github.com/MeghnaS21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&size_weight=0.5&count_weight=0.5)](https://github.com/Saleh-Tarek/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
