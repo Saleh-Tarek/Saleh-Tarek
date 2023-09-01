@@ -53,6 +53,7 @@ Hi there👋 ! I'm Tarek
   <img src="https://giphy.com/gifs/funny-lol-college-6xE1FNcorRInS" width="600" height="300"/>
 </div>
 -->
+
 ---
 
 ### :man_technologist: About Me :
@@ -95,7 +96,7 @@ Hi there👋 ! I'm Tarek
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&size_weight=0.5&count_weight=0.5)](https://github.com/Saleh-Tarek/github-readme-stats)
 -->
-
+---
 
 
 
@@ -127,7 +128,7 @@ Hi there👋 ! I'm Tarek
 ![visitors](https://komarev.com/ghpvc/?username=your-github-Saleh-Tarek)
 
 
-
+---
 
 
 ### :fire: Let's connect and learn together!  🚀
@@ -144,9 +145,11 @@ Hi there👋 ! I'm Tarek
 
 
 
+---
+
 ![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
 
-
+---
 
 
 - 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
@@ -166,3 +169,4 @@ Hi there👋 ! I'm Tarek
 ![snake gif](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/output/github-contribution-grid-snake.svg)
  -->
 
+---
