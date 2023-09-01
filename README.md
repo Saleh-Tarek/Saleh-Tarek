@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 <img src="https://komarev.com/ghpvc/?username=Tuplea&style=flat-square&color=blue" alt=""/>
 
 <h1>
-Hi there👋 ! I'm Tarek  <img src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif" width="100px"/>
+Hi there👋 ! I'm Tarek  
+<img src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif" width="600px"/>
 </h1>
 
 
