@@ -58,7 +58,9 @@ Hi there👋 ! I'm Tarek
 ### :man_technologist: About Me :
 - An Embedded Software Engineer  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" width="30">
 - Embedded Systems Instructor <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3N2NXk0ZDNoZGRjNDlscXVlbHQ2eHZyN2Jvb24xNnV5b2VzN2U3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fhAwk4DnqNgw8/giphy.gif" width="30">
-- University Teaching assistant [College of Engineering & Basic and applied science institute the mathematics department] 
+- University Teaching assistant 
+[College of Engineering] 
+[Basic and Applied Science Institute:  The Mathematics Department] 
  <!--
 - :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working part-time as a TA.
 -->
