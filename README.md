@@ -41,9 +41,10 @@ Here are some ideas to get you started:
 
 [![Tarek's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Saleh-Tarek/github-readme-stats#gh-dark-mode-only)
 
+<!--
 [![Tarek's GitHub stats-Light](https://github-readme-stats.vercel.app/api?Saleh-Tarek=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Saleh-Tarek/github-readme-stats#gh-light-mode-only)
 
-
+-->
 
 
 - 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
