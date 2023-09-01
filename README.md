@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 <h1>
 Hi there👋 ! I'm Tarek  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+<img src="https://giphy.com/gifs/funny-lol-college-6xE1FNcorRInS" width="30px"/>
 </h1>
 
 <iframe src="https://giphy.com/embed/6xE1FNcorRInS" width="480" height="244" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-lol-college-6xE1FNcorRInS">via GIPHY</a></p>
