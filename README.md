@@ -42,6 +42,7 @@ Here are some ideas to get you started:
 
 <h1>
 Hi there👋 ! I'm Tarek  
+
 <img src="https://media.giphy.com/media/6xE1FNcorRInS/giphy.gif" width="600px"/>
 </h1>
 
@@ -55,7 +56,7 @@ Hi there👋 ! I'm Tarek
 ---
 
 ### :man_technologist: About Me :
-- An Embedded Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- An Embedded Software Engineer  <img src="hhttps://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif" width="130">
 - Embedded Systems Instructor <img src="https://giphy.com/gifs/life-school-college-fhAwk4DnqNgw8" width="30">
 - University Teaching assistant  <img src="https://giphy.com/gifs/disneystudios-pixar-soul-duimBf3vVl4H50F5yf
 " width="30"> [College of Engineering & Basic and applied science institute the mathematics department] 
