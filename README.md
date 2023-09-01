@@ -47,13 +47,6 @@ Here are some ideas to get you started:
 -->
 
 
-- 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
-
-| ------------- | ------------- |
-
-
-
-
 
 
 ![](https://img.shields.io/badge/OS-MacOS-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
@@ -71,14 +64,26 @@ Here are some ideas to get you started:
 ### Let's connect and learn together!  🚀
 
 <a href="https://github.com/Saleh-Tarek/github-readme-stats">
-  <img align="right" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
+  <img align="center" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
-  <img align="right" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
+  <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
 </a>
  <a href="https://www.linkedin.com/in/tareksaleh001/">
-  <img align="right" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
+  <img align="center" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" />
 </a>
+
+
+## RIP
+
+![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
+
+
+
+
+- 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
+
+| ------------- | ------------- |
 
 
 
@@ -93,4 +98,3 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/output/github-contribution-grid-snake.svg)
  -->
 
-![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
