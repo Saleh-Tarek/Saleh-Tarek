@@ -130,7 +130,7 @@ Hi there👋 ! I'm Tarek
 
 
 
-### Let's connect and learn together!  🚀
+### :fire: Let's connect and learn together!  🚀
 
 <a href="https://github.com/Saleh-Tarek/github-readme-stats">
   <img align="center" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
