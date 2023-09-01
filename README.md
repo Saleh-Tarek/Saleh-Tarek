@@ -134,7 +134,7 @@ Hi there👋 ! I'm Tarek
 ### :fire: Let's connect and learn together!  🚀
 
 <a href="https://github.com/Saleh-Tarek/github-readme-stats">
-  <img align="center" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
+  <img align="right" alt="Tarek Saleh | Twitter" width="21px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/twitter.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ">
   <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" />
