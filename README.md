@@ -17,6 +17,25 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
+
+<div id="badges">
+  <a href="https://linkedin.com/in/tareksaleh001">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@UCtHHrBZ6Uy9mkwHUBfQeyQQ/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+     <a href="https://www.tiktok.com/@its.tareks">
+    <img src="https://img.shields.io/badge/tiktok-black?style=for-the-badge&logo=tiktok&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://twitter.com/SalehTarek001">
+    <img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+
+  <a href="https://facebook.com/Saleh2Tarek">
+    <img src="https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  </a>
+
 </div>
 
 
