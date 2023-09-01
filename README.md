@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&size_weight=0.5&count_weight=0.5)](https://github.com/Saleh-Tarek/github-readme-stats)
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&show_icons=true&theme=dark)](https://github.com/Saleh-Tarek/github-readme-stats)
-
-![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saleh-Tarek&show_icons=true&theme=dark)](https://github.com/Saleh-Tarek/github-readme-stats) | ![Tarek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saleh-Tarek&show_icons=true&theme=dark)
 
 - 💬 Ask me about anything [here](https://github.com/Saleh-Tarek/Saleh-Tarek/issues)
 
