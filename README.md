@@ -74,7 +74,7 @@ Hi there👋 ! I'm Tarek
 
 ---
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/F9izQKTxUtCWXpA1Vj/giphy.gif" width="600"> 
+<img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="600"> 
 </div>
 
 ---
