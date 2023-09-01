@@ -93,4 +93,6 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/output/github-contribution-grid-snake.svg)
  -->
 
-                      ![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
+<center>
+  ![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
+</center>
