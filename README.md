@@ -73,7 +73,10 @@ Hi there👋 ! I'm Tarek
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tarek-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tareksaleh001)
 
 ---
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3o0b2ZuOXFxdHJmazRudjJpZ3l3MXpwdmRpcHExeGFoajM2b243ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/duimBf3vVl4H50F5yf/giphy.gif" width="600"> 
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/F9izQKTxUtCWXpA1Vj/giphy.gif" width="600"> 
+</div>
+
 ---
 <h1 style="font-weight: lighter"> Hi there👋 ! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ"> <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" /> </a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/"> <img align="center" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" /> </a>
 </h1>
