@@ -143,7 +143,6 @@ Hi there👋 ! I'm Tarek
 </a>
 
 
-## RIP
 
 ![RIP](https://github.com/Saleh-Tarek/Saleh-Tarek/blob/main/assets/CK0DStp.jpeg)
 
