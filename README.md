@@ -38,6 +38,36 @@ Here are some ideas to get you started:
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=Tuplea&style=flat-square&color=blue" alt=""/>
+
+<h1>
+Hi there👋 ! I'm Tarek  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+</div>
+
+<div align="center">
+  <img src="https://giphy.com/gifs/funny-lol-college-6xE1FNcorRInS" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+
+I am a Software Engineer and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
+
+- :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working full-time as a frontend developer.
+
+- :seedling: Exploring Backend and Mobile Development.
+- 👯 I seek opportunities and collaborations on projects related to frontend, backend or artificial intelligence
+
+- 💬 Chat me up on +234-813-238-0951 or +234-808-911-2717
+
+- :zap: In my free time, I try to build connections and catch up on trending technologies and events.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo)
+
+---
 
 <h1 style="font-weight: lighter"> Hi there👋 ! I'm Tarek Saleh, an Electronics and Communications Engineer with a genuine passion for education and technology. I thrive on delivering engaging online learning experiences that enhance students' communication and speaking skills. As an enthusiast of both English and Arabic, I'm dedicated to creating collaborative environments that cater to diverse learning needs. With a strong foundation in C, C++, and Embedded C programming, I'm committed to sharing my technical expertise through interactive tutorials and projects. Check out my repositories to explore a mix of educational content, technical projects, and insights into my journey. You can check  out my YouTube channel at <a href="https://www.youtube.com/channel/UCtHHrBZ6Uy9mkwHUBfQeyQQ"> <img align="center" alt="Tarek Saleh | Youtube" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/youtube.svg" /> </a> or my LinkedIn <a href="https://www.linkedin.com/in/tareksaleh001/"> <img align="center" alt="Tarek Saleh | LinkedIn" width="20px" src="https://raw.githubusercontent.com/Saleh-Tarek/Saleh-Tarek/master/assets/linkedin.svg" /> </a>
 </h1>
