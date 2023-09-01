@@ -56,7 +56,7 @@ Hi there👋 ! I'm Tarek
 ---
 
 ### :man_technologist: About Me :
-- An Embedded Software Engineer  <img src="hhttps://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif" width="130">
+- An Embedded Software Engineer  <img src="https://media.giphy.com/media/W9lzJDwciz6bS/giphy.gif" width="130">
 - Embedded Systems Instructor <img src="https://giphy.com/gifs/life-school-college-fhAwk4DnqNgw8" width="30">
 - University Teaching assistant  <img src="https://giphy.com/gifs/disneystudios-pixar-soul-duimBf3vVl4H50F5yf
 " width="30"> [College of Engineering & Basic and applied science institute the mathematics department] 
