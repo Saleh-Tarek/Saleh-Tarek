@@ -53,19 +53,22 @@ Hi there👋 ! I'm Tarek  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4
 ---
 
 ### :man_technologist: About Me :
+- An Embedded Software Engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- Embedded Systems Instructor <img src="https://giphy.com/gifs/life-school-college-fhAwk4DnqNgw8" width="30">
+- University Teaching assistant  <img src="https://giphy.com/gifs/disneystudios-pixar-soul-duimBf3vVl4H50F5yf
+" width="30"> [College of Engineering & Basic and applied science institute the mathematics department] 
+ <!--
+- :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working part-time as a TA.
+-->
+- :seedling: Exploring Embedded software engineering.
+- 👯 I seek opportunities and collaborations on projects related to Embedded software engineering or Tutoring.
 
-I am a Software Engineer and Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Nigeria.
-
-- :telescope: I’m currently learning Software Engineering at ALX-Africa, while still working full-time as a frontend developer.
-
-- :seedling: Exploring Backend and Mobile Development.
-- 👯 I seek opportunities and collaborations on projects related to frontend, backend or artificial intelligence
-
+<!--
 - 💬 Chat me up on +234-813-238-0951 or +234-808-911-2717
-
+-->
 - :zap: In my free time, I try to build connections and catch up on trending technologies and events.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adeniyi-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/adeniyi-aderehinwo)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Tarek-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/tareksaleh001)
 
 ---
 
